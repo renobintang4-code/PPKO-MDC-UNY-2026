@@ -1,0 +1,6 @@
+{
+  "name": "Griya Ceria PPK Ormawa UNY",
+  "description": "Website Resmi PPK Ormawa UKMF MDC FMIPA UNY 2026: Pemberdayaan Masyarakat Melalui Pojok Literasi Terpadu di Kalurahan Giripurwo, Gunungkidul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
